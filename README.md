@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project : Twitter’s social spam
 
  #### Authors :
  * Abou SANOU
