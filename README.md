@@ -39,5 +39,3 @@ This command will launh a pageweb where you can run and check the notebook avail
 * results_test : where the test file is stored. We already fill theses files.
 
 
-Project Link: [https://github.com/AbouOpenSource/Twitter-Analysis](https://github.com/AbouOpenSource/Twitter-Analysis)
-
