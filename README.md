@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- ### Authors :
+ #### Authors :
  * Abou SANOU
  * Achraf BEN HAMOU  
  * Amine RABHI
